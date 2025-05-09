@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+src/index.html
+dist/index.html
+.idea
+error_log
